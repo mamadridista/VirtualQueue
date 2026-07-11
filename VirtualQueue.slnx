@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="VirtualQueue.API/VirtualQueue.API.csproj" />
+    <Project Path="VirtualQueue.Application/VirtualQueue.Application.csproj" />
+    <Project Path="VirtualQueue.Domain/VirtualQueue.Domain.csproj" />
+    <Project Path="VirtualQueue.Infrastructure/VirtualQueue.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="VirtualQueue.Tests/VirtualQueue.Tests.csproj" Id="ea936e4a-4365-45e3-950c-f7f49cd6007d" />
+  </Folder>
+</Solution>
