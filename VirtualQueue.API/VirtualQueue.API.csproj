@@ -11,11 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Middlewares\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\VirtualQueue.Application\VirtualQueue.Application.csproj" />
     <ProjectReference Include="..\VirtualQueue.Infrastructure\VirtualQueue.Infrastructure.csproj" />
   </ItemGroup>
