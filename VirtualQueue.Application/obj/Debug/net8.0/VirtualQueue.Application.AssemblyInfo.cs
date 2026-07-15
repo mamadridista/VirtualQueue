@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualQueue.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efd8a56c6ab38ff988d158ff53ea356ae9b50bdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54e07bb6c5e96ccb0f5d9d259aeda3c6498edf36")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualQueue.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualQueue.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
